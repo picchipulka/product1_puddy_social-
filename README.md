@@ -19,6 +19,7 @@ Flexibility	Each group can choose its own session duration and frequency (e.g., 
 Longevity	Structured for long-term use (3–4 years of consistent group sessions)
 Cost	$0 — built entirely with free, industry-grade tools
 Capstone Value	Demonstrates full app lifecycle planning, UI/UX design, no-code integration, automation, and analytics
+
 3️⃣ Core Features
 
 🏋️ Randomized Challenges – 20 to 100 push-ups per session.
@@ -81,6 +82,7 @@ Phase	Focus	Output
 8	Testing & QA	End-to-end verification
 9	Presentation Build	Demo video + slides
 10	Documentation & Future Scope	Final report & recommendations
+
 7️⃣ 15-Day (30-Hour) Day-by-Day Execution Plan
 🧩 Week 1 – Planning & UI Design
 Day	Focus	Tasks	Deliverable
@@ -103,6 +105,7 @@ Day	Focus	Tasks	Deliverable
 13	Testing & Analytics	QA all flows + Firebase Analytics	Stable prototype
 14	Documentation	Screenshots + Loom demo + report draft	Capstone report
 15	Final Packaging	Canva deck + PDF submission	🎓 Final deliverable
+
 8️⃣ Deliverables
 Type	Description
 📱 Prototype	Functional Adalo app integrated with Firebase + Jitsi
@@ -110,6 +113,7 @@ Type	Description
 🎥 Demo Video	2-minute Loom walkthrough
 📊 Presentation Deck	Problem → Solution → Tech → Demo
 📄 Capstone Report	Technical + strategic documentation
+
 9️⃣ Future Enhancements
 
 🤖 AI Coach – Personalized motivation via OpenAI API.
