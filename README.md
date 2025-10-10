@@ -2,6 +2,7 @@
 Pushup buddy + Social interactions
 
 🧭 Final Executive Summary — Push-Up Challenge App (Capstone Project)
+
 1️⃣ Purpose
 
 The Push-Up Challenge App is designed to combine fitness and social interaction into a single mobile experience.
